@@ -4,7 +4,7 @@
 
 <p align="center">Download everything you own on itch.io in one go, and keep it up to date.</p>
 
-![ItchiAss(ets) showing an itch.io library](docs/screenshot.png)
+![ItchiAss(ets) showing an itch.io library](docs/example.png)
 
 ## Download
 
