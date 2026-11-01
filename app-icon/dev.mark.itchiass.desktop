@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ItchiAss(ets)
+Comment=Download and update your itch.io library
+Icon=dev.mark.itchiass
+Exec=itchiassets
+StartupWMClass=dev.mark.itchiass
+NoDisplay=true

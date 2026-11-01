@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories={{categories}}
+Comment={{comment}}
+Exec={{exec}}
+Icon={{icon}}
+Name=ItchiAss(ets)
+StartupWMClass=dev.mark.itchiass
+Terminal=false
+Type=Application

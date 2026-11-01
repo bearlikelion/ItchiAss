@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# SvelteKit and Vite output
+/build/
+/.svelte-kit/
+/package/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Rust and Tauri output (Cargo.lock stays committed, this is an app)
+/src-tauri/target/
+/src-tauri/gen/schemas/
+**/*.rs.bk
+*.pdb
+
+# Local release builds
+/ItchiAssets.AppImage
+/ItchiAssets.exe
+
+# Environment and OS clutter
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
